@@ -9,3 +9,15 @@ While I realize that IMDB has datasets that are available to download at https:/
 more about web scraping, and I like movies so I made a web scraper for IMDB.
 
 Dependencies: Beautiful Soup 4, requests, Pandas, Numpy, Matplotlib, re, unidecode, warnings
+
+If you don't already have these installed, use the following commands to install these packages:
+
+Assuming you have pip, the python package manager, installed:
+
+pip install beautifulsoup4
+
+pip install requests
+
+etc.
+
+Else, if you have another package manager, such as conda, you may need to look up the individual commands.
